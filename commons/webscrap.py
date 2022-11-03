@@ -4,11 +4,14 @@ This script helps webscraping various websites
 
 
 class WebScrap:
+    """
+      Webscrap
+    """
     def __init__(self):
         """
         init
         """
-        pass 
+        self.info = "Webscrap"
 
     def get_content(self):
         """

@@ -8,6 +8,7 @@ class Preprocess:
         """
         init
         """
+        self.info = "Preprocess"
 
     def tokenize(self):
         """

@@ -8,7 +8,7 @@ class Translate:
         """
         init
         """
-        pass 
+        self.info = "Translate"
 
     def language_detect(self):
         """

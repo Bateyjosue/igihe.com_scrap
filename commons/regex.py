@@ -12,6 +12,7 @@ class Regex:
         """
         init
         """
+        self.info = "Regex"
 
     def get_email(self):
         """
