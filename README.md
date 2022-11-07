@@ -1,5 +1,5 @@
-# Flask-project-NLP_Fellowship
-It's a repo for the NLP Fellowship work. Build with Python Flask
+# igihe.com_scrap
+It is a script for scrapping igihe.com website to get all categories of articles from a given keyword. Build with Flask
 
 
 # ScreenShot
