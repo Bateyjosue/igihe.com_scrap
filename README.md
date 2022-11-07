@@ -12,11 +12,11 @@ This repository includes Python Scripts
 
 ### Clone the repository:
 
-    $ git clone https://github.com/Bateyjosue/Flask-project-NLP_Fellowship.git
+    $ git clone https://github.com/Bateyjosue/igihe.com_scrap.git
 
 ### Navigate into the project folfer
 
-    $ cd Flask-project-NLP_Fellowship
+    $ cd igihe.com_scrap
 
 ### Install project Dependencies
     
